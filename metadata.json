@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase",
+  "description": "ShopEase Android Shopping App UI wireframe and complete store experience featuring 10 screens with fresh emerald green and white design, product catalog, cart, checkout, and full order flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
